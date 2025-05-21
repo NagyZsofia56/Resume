@@ -3,22 +3,22 @@
 
 ## Mini-Satellite
 
-![Video](images\gif2.gif)
+![Video](..\images\gif2.gif)
 
 ### What is our satellite capable of?
 The primary missions were measuring air pressure, acceleration, temperature and sending data to the ground station every second.
 Our satellite contains the following: frame, parachute, battery, spectrograph, Arduino Nano Every microcontroller, MPU+BME integrated sensor, buzzer, GPS module, microSD module and microSD, antenna, integrating space+shutter (needed for secondary mission), LoRa telemetry module, voltage converters, wiring respectivly
 The main secondary mission focuses on examining the spectral distribution of scattered solar radiation as a function of atmospheric altitude.For that we implented a spectroscope. The spectrograph can only accept diffuse light so I had to creat an integrating space, which was a tackling challenge.
 
-![Alt text](images\parachute.jpg)
-![Alt text](images\groundstationbe.jpg)
-![Alt text](images\groundstation.jpg)
-![Alt text](images\külsőváz.jpg)
+![Alt text](..\images\parachute.jpg)
+![Alt text](..\images\groundstationbe.jpg)
+![Alt text](..\images\groundstation.jpg)
+![Alt text](..\images\külsőváz.jpg)
 
 ### What were my tasks?
 My tasks in the team was penetrating and modelling the structural and mechanical design. For that I used Autodesk Fusiuon 360. My other task was creating and following our outreach programme.
 
-![Alt text](images\3D.jpg)
+![Alt text](..\images\3D.jpg)
 
 ### Outreach programme
 Our approach to publicising and communicating the project focuses on leveraging active social media platforms, engaging in targeted outreach activities, and ensuring consistent visibility through various channels.
@@ -28,7 +28,7 @@ Media Features: Feature interview in Képmás magazine,CanSatLab FB,Article in T
 Our website with the help of a startbootstrap template,Social media platforms: ,Instagram,Youtube,Tiktok,Linkedin,Facebook,Twitter
 All together we have 83 followers, 58 posts, 556 likes and 8322 views.
 
-![Alt text](images\Rakétával.jpg)
+![Alt text](..\images\Rakétával.jpg)
 
 ### What did I learn during the journey?
 
@@ -69,13 +69,13 @@ The math project is still ongoing, but it is about chaos.
 
  My main goal was to researching the phsysics of paper boomerangs.
 
-![Alt text](images\sokbumeráng.jpg)
+![Alt text](..\images\sokbumeráng.jpg)
 
 ### The process and small milestones
 The fisrt milestone was when I gave a presentation at Eötvös Loránd University (ELTE). I had already had some results but I decided to work on. My second achievement as to send my final draft to Jakobsleiter journal. Now I made a launcher to minimize the different between the throws. 
 
-![Alt text](images\bumeranglauncher.jpg)
-![alt text](images\bumival.jpg)
+![Alt text](..\images\bumeranglauncher.jpg)
+![alt text](..\images\bumival.jpg)
 
 ### Lessons
 
