@@ -7,7 +7,7 @@
 * Náboj International Physics Competition, 9th place(HUN),40th place(INT) 
 * 2024 Hungarian Young Phycisists Tournament, semifinalist
 
-![Alt text](images\IYPTszóbeli.jpg)
+![Alt text](..\images\IYPTszóbeli.jpg)
 
 ### 2025
 
