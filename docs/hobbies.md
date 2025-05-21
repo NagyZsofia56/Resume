@@ -17,8 +17,8 @@ I have been the student of György Kroó Music and Arts School for 7 years. My p
 *  Innterreg Bowl, Internation Bridge Over Borders, Nagykanizsa 2024, 
 * Summer bridge camp 2024
 
-![Alt text](images\EB2024.jpg)
-![Alt text](images\EB2024játék.jpg)
+![Alt text](..\images\EB2024.jpg)
+![Alt text](..\images\EB2024játék.jpg)
  
  
 ##  Camps and clubs
