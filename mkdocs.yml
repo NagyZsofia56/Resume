@@ -1,0 +1,21 @@
+site_name: Zsófia Nagy Resume
+nav:
+  - Home: index.md
+  - Competitions: competitions.md
+  - Projects: projects.md
+  - Publications: publications.md
+  - Internships: internships.md
+  - Hobbies: hobbies.md
+  - Volunteering: volunteering.md
+  - Exams: exams.md
+  - Contact information: contacts.md
+
+theme:
+  logo: assets/NagyZsofilogo.png
+  favicon: images/NagyZsofilogo.png
+  name: material
+  palette:
+    primary: blue
+  features:
+  - navigation.tabs
+
