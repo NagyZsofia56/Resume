@@ -1,2 +1,2 @@
 # Resume
-Zsofia Nagy resume
+Zsofia Nagy resume 2.0
