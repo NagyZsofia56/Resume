@@ -11,7 +11,7 @@ I conducted research at the Physics Department during the Summer camp. My projet
 
 ### IPhO/Physics camp (Boiling point/Forráspont) Summer eddition
 
-This physics camp is organized by Hungarian physics olympiads. There are lots of lecture by profesors and students and lots of problem-solving, while also leaving time to get to know each other. 
+This physics camp is organized by Hungarian physics olympiads. There are lots of lecture by professors and students and lots of problem-solving, while also leaving time to get to know each other. 
 ## 2025
 
 ### IPhO/Physics camp(Freeze point/Fagypont) Winter edition
