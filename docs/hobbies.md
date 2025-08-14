@@ -8,24 +8,43 @@ I have been the student of György Kroó Music and Arts School for 7 years. My p
 
 ## Bridge (card game)
 
-* European Youth Team Championship 2024, 11th place
 * Signed player at MTK('Hungarian Exerciser's circle')
 * Regulalrly competing 
+
+###### 2025
+
+* European Youth Team Championship 2024, 11th place
 * Hungarian Team Championship 2024
-* Hungarian cup(ongoing)
 * Pula Bridge Festival 2024
-*  Innterreg Bowl, Internation Bridge Over Borders, Nagykanizsa 2024, 
+* Innterreg Bowl, Internation Bridge Over Borders, Nagykanizsa 2024
 * Summer bridge camp 2024
 
 ![Alt text](..\images\EB2024.jpg)
 ![Alt text](..\images\EB2024játék.jpg)
- 
+
+###### 2024
+
+* World Youth Team Championship 2025, 12th place
+* Hungarian cup 2025, 2nd place in Diamond cup
+* Summer bridge camp 2025
+
+![Alt text](..\images\2025vbjatek.jpg)
+![Alt text](..\images\25vbcsapat.jpg)
  
 ##  Camps and clubs
 
-* Physics Olympiad camp 2024 Summer, 2025 Winter
+###### 2025
+
+* Physics Olympiad camp 2024 Summer, 
 * Fazekas Mihály Grammar School's Sophomore Physics competition club
 * Philosphy faculty
+* Philosophy student camp
+* University of Debrecen Research Camp
+
+###### 2024
+
+* Physics Olympiad camp 2025 Summer, 2025 Winter
+* Fazekas Mihály Grammar School's Sophomore Physics competition club
 * University of Debrecen Research Camp
 
  
