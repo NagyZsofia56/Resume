@@ -24,5 +24,6 @@
 
 ### 2025
   
-* Hungarian cup(ongoing) finalist in diamond cup
+* Hungarian cup, 2nd in diamond cup
 * Hunagrian IMP pairs (ongoing)
+* World Youth Team Championships, 12th place
