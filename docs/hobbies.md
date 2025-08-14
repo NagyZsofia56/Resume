@@ -11,7 +11,7 @@ I have been the student of György Kroó Music and Arts School for 7 years. My p
 * Signed player at MTK('Hungarian Exerciser's circle')
 * Regulalrly competing 
 
-###### 2025
+##### 2025
 
 * European Youth Team Championship 2024, 11th place
 * Hungarian Team Championship 2024
@@ -22,7 +22,7 @@ I have been the student of György Kroó Music and Arts School for 7 years. My p
 ![Alt text](..\images\EB2024.jpg)
 ![Alt text](..\images\EB2024játék.jpg)
 
-###### 2024
+##### 2024
 
 * World Youth Team Championship 2025, 12th place
 * Hungarian cup 2025, 2nd place in Diamond cup
@@ -33,7 +33,7 @@ I have been the student of György Kroó Music and Arts School for 7 years. My p
  
 ##  Camps and clubs
 
-###### 2025
+#### 2025
 
 * Physics Olympiad camp 2024 Summer, 
 * Fazekas Mihály Grammar School's Sophomore Physics competition club
@@ -41,7 +41,7 @@ I have been the student of György Kroó Music and Arts School for 7 years. My p
 * Philosophy student camp
 * University of Debrecen Research Camp
 
-###### 2024
+##### 2024
 
 * Physics Olympiad camp 2025 Summer, 2025 Winter
 * Fazekas Mihály Grammar School's Sophomore Physics competition club
